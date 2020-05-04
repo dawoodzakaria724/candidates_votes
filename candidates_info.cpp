@@ -22,7 +22,7 @@ int main()
 
 	for (int i = 0; i < n; i++)
 	{
-		cout << "Enter the name of your candidate: " << endl;
+		cout << "Enter the last name of your candidate: " << endl;
 		cin >> candidatesPtr[i];
 
 		cout << "Enter the number of votes of your candidate: " << endl;
